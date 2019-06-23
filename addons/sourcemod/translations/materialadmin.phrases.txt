@@ -68,7 +68,7 @@
 	"ReloadConnect"
 	{
 		"en"    		"Reload connect"
-		"ru"    		"Переподключится к бд"
+		"ru"    		"Переподключиться к бд"
 	}
 	"SetMute"
 	{
